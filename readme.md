@@ -36,6 +36,6 @@ CSS
 
 JavaScript
 
-Estado del proyecto
+<h1> Estado del proyecto </h1> 
 
 Este proyecto tiene carácter práctico y se encuentra en una versión inicial. Más adelante, podría extenderse con nuevas características y mejoras en la interfaz.

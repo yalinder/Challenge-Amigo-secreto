@@ -1,4 +1,4 @@
-
+// EPEZAMOS CON LAS VARIABLES //
 let nombres = []; //arreglo que contiene a todos los amigos
 let nombre = "";
 const ul = document.getElementById("listaAmigos");
